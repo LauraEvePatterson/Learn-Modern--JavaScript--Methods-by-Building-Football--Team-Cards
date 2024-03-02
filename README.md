@@ -1,3 +1,5 @@
+[Link to deployed site](https://lauraevepatterson.github.io/Learn-Modern-JavaScript-Methods-by-Building-Football-Team-Cards/)
+
 # Building Football Team Cards with Modern JavaScript Methods
 
 This project is a part of the freeCodeCamp curriculum, focusing on learning modern JavaScript methods by building football team cards. In this project, you'll leverage modern JavaScript methods to create dynamic and interactive football team cards.
