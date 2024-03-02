@@ -39,7 +39,7 @@ Here are some resources that might be helpful while working on this project:
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript): A comprehensive JavaScript documentation.
 - [freeCodeCamp](https://www.freecodecamp.org/): Check out freeCodeCamp's resources and community for additional guidance and support.
-- [Bad Website Club's Discord](https://discord.com/invite/pySW9YZfYY): Code along with Ramon, Jess, and community while working with freeCodeCamp materials.
+- [Bad Website Club's Discord](https://discord.com/invite/pySW9YZfYY): Code along with Ramon, Jess, and community while working with freeCodeCamp's educational materials.
 ## Project Submission
 
 Once you have completed the project, you can submit it through the freeCodeCamp platform according to their guidelines.
